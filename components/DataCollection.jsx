@@ -100,6 +100,7 @@ const Login = () => {
                 <Button
                   type="button"
                   label="Calcular"
+                  severity="success"
                   className="mt-2"
                   onClick={calculate}
                 />
